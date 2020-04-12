@@ -1,10 +1,11 @@
-# Podstawowe środowisko stosu LAMP zbudowane przy użyciu Docker Compose. Składa się z następujących elementów:
+# LAMP
+_Podstawowe środowisko stosu LAMP zbudowane przy użyciu Docker Compose. Składa się z następujących elementów:_
 * PHP
 * Apache
 * MySQL
 
 _Serwery **PHP** i **MySQL** są przyłączone do sieci backend a **Apache** do backend oraz frontend._ 
-_Apache ma wystawiony na świat zewnętrzy port **6666**_
+_**Apache** ma wystawiony na świat zewnętrzy port **6666**_
 
 
 # Struktura projektu
